@@ -1,3 +1,7 @@
+## Personal Note
+
+Hey, This is one of my first full clones using API's such as stripe, prisma, and supabase. It is almost a 1-1 clone as of 08/xx/2024. Other than that, all other required information to run this app on your machine locally is below. Have a great day!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
